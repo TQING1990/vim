@@ -1,0 +1,3 @@
+[submodule "colors"]
+	path = colors
+	url = https://github.com/TQING1990/vim-colorscheme.git
